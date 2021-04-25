@@ -10,6 +10,7 @@ public class TimeManager : MonoBehaviour
     public float SecondsLeft = 60;
 
     private bool raceStarted = false;
+    private bool soundPlayed = false;
 
     private float timeLeft;
     // Start is called before the first frame update
@@ -24,10 +25,20 @@ public class TimeManager : MonoBehaviour
     {
         if (raceStarted)
         {
+            PlaySound();
             timeLeft -= Time.deltaTime;
         }
         int timeRemaining = (int)Math.Ceiling(timeLeft);
         timerText.text = string.Format("{0}:{1:00}", timeRemaining / 60, timeRemaining % 60);
+    }
+
+    void PlaySound()
+    {
+        if(!soundPlayed)
+        {
+            GetComponent<AudioSource>().Play();
+            soundPlayed = true;
+        }
     }
 
     public void AddTime(float seconds)

@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/GetaTest/Scenes/Menu.unity
+    guid: 01996438ce04e9b4c8f5b5a11c69f04f
+  - enabled: 1
     path: Assets/GetaTest/Scenes/TrackScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
@@ -14,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GetaTest/Scenes/Win.unity
     guid: d5fda06a18e1a514ca93f051888178bf
+  - enabled: 1
+    path: Assets/GetaTest/Scenes/LoadingScene.unity
+    guid: 4e1dc81d78446f94ea53abbb36ff5710
   m_configObjects: {}

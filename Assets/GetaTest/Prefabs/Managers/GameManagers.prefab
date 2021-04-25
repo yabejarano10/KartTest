@@ -262,7 +262,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timerText: {fileID: 5721928771047194977}
-  SecondsLeft: 60
+  SecondsLeft: 30
 --- !u!114 &5721928772310992825
 MonoBehaviour:
   m_ObjectHideFlags: 0
