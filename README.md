@@ -27,3 +27,7 @@ Use the stats button in the main menu to keep track of your progress and compite
 ## Instalation
 
 If you want to see the code just download the zip or clone the repo and open the project from your Unity editor. If you only want to play the game, you can run it directly from the Build-0.1 folder.
+
+## Credits
+
+Game Music made by <a href="https://freesound.org/people/Mrthenoronha/sounds/476546/">Mrthenoronha</a>
