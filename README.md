@@ -8,6 +8,7 @@
   
 <a href="http://unity.com/"><img src="https://img.shields.io/badge/Unity-2020.3.3f-brightgreen" alt="Unity Version" /></a>
 <a href="https://www.microsoft.com/es-co/windows"><img src="https://img.shields.io/badge/OS-Windows-blue" alt="Target OS" /></a>
+<a href="https://unity3d.com"><img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity" alt="Made with" /></a>
 </p>
 
 * Use the pickups to grant you extra time.
