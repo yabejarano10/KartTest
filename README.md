@@ -21,7 +21,7 @@
 
 Use <kbd>w</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> to control your kart and if you lose control or just want to start over, use <kbd>R</kbd> to restart the race and run again!
 
-Use the stats button in the main menú to keep track of your progress and compite with your friends.
+Use the stats button in the main menu to keep track of your progress and compite with your friends.
 
 ## Instalation
 
